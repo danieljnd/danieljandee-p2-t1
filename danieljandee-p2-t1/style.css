@@ -1,0 +1,24 @@
+body{
+    font-family: 'Times New Roman', Times;
+    fallback: serif;
+    background-color: pink;
+}
+.Jokunimi{
+    color: rgb(58, 124, 182);
+    text-align: center;
+}
+
+.container{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+    padding: 0%;
+    
+}
+img{
+    width: 300px;
+    border-radius: 50px;
+}
